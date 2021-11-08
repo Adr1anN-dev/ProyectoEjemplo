@@ -20,7 +20,7 @@ Autor: Adrian Ruiz
 // git pull origin main --> actualiza el repositorio local.
 // git clone <repo> --> clonar repositorio de github.
 
-// Documentacion del desarrollador #1.
+# Documentacion 1 (Dev1)
 // git commit -am "doc dev1" --> guardar los cambios en git local.
 // git push origin Dev1 --> subir los cambios a la rama creada
 // git checkout main --> cambiar a la rama main.
