@@ -4,7 +4,7 @@ Autor: Adrian Ruiz
 /* COMANDOS PARA GIT */
 // git --help --> ayuda en git.
 // git config --list --show-origin --> muestra la configuracion de git.
-// git config --global user.name "adrianptek" --> agrega el usuario de git.
+// git config --global user.name "username" --> agrega el usuario de git.
 // git config --global user.email "micorreo@hotmail.com" --> agrega el email de git.
 // ssh-keygen -t rsa -b 4096 -C "micorreo@hotmail.com" --> crea la llave para conectar git con github.
 // clip < ~/.ssh/id_rsa.pub --> copia la llave en el portapapeles.
