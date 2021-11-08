@@ -25,3 +25,4 @@ Autor: Adrian Ruiz
 // Documentacion del desarrollador #1.
 // git commit -am "doc dev1" --> guardar los cambios en git local.
 // git push origin Dev1 --> subir los cambios a la rama creada
+// git checkout main --> cambiar a la rama main.
