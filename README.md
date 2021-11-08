@@ -23,5 +23,5 @@ Autor: Adrian Ruiz
 // git checkout Dev1 --> cambiar a la rama creada.
 // git checkout -B Dev2 --> crear una nueva rama de desarrollo y entrar en ella.
 
-// Documentacion 2 (Dev2)
+# Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
