@@ -19,8 +19,6 @@ Autor: Adrian Ruiz
 // git fetch --> actualiza la metadata del repositorio local.
 // git pull origin main --> actualiza el repositorio local.
 // git clone <repo> --> clonar repositorio de github.
-// git branch Dev1 --> crear una nueva rama de desarrollo.
-// git checkout Dev1 --> cambiar a la rama creada.
 
 // Documentacion del desarrollador #1.
 // git commit -am "doc dev1" --> guardar los cambios en git local.
