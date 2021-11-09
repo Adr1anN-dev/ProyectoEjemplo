@@ -31,6 +31,7 @@ git log --oneline --graph --> historial de commits en git. (reducido) (graficado
 git checkout 49ad27b --> regresar al commit indicado por el indice sacado del historial.
 git reset --hard HEAD-1 --> devolver al ultimo commit.
 git checkout HEAD-1 --> regresar al ultimo commit sin restaurarlo.
+git checkout -B issue_1 --> cuando hay issues (disfuncionalidades en el proyecto) crear un branch por cada issue.
 
 # Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
