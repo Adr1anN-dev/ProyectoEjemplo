@@ -25,9 +25,12 @@ Autor: Adrian Ruiz
 // git merge main Dev2 --> agregar la rama principal a la Dev 2.
 // git reset --hard --> devolver el proyecto local de git al ultimo commit funcional.
 // git checkout HEAD -- README.md --> devolver un archivo en especifico al ultimo commit funcional.
-// git log --> historial de commits en git. ( q para salir).
-// git log --oneline --> historial de commits en git. (reducido) ( q para salir).
-git log --oneline --graph --> historial de commits en git. (reducido) (graficado) ( q para salir).
+// git log --> historial de commits en git. ("q" para salir).
+// git log --oneline --> historial de commits en git. (reducido) ("q" para salir).
+git log --oneline --graph --> historial de commits en git. (reducido) (graficado) ("q" para salir).
+git checkout 49ad27b --> regresar al commit indicado por el indice sacado del historial.
+git reset --hard HEAD-1 --> devolver al ultimo commit.
+git checkout HEAD-1 --> regresar al ultimo commit sin restaurarlo.
 
 # Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
