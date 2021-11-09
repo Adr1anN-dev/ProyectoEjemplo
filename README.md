@@ -23,5 +23,12 @@ Autor: Adrian Ruiz
 // git checkout Dev1 --> cambiar a la rama creada.
 // git checkout -B Dev2 --> crear una nueva rama de desarrollo y entrar en ella.
 
+<<<<<<< HEAD
 # Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
+=======
+# Documentacion 1 (Dev1)
+// git commit -am "doc dev1" --> guardar los cambios en git local.
+// git push origin Dev1 --> subir los cambios a la rama creada.
+// git checkout main --> cambiar a la rama main.
+>>>>>>> main
