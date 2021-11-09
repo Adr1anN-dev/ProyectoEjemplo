@@ -22,7 +22,6 @@ Autor: Adrian Ruiz
 // git branch Dev1 --> crear una nueva rama de desarrollo.
 // git checkout Dev1 --> cambiar a la rama creada.
 // git checkout -B Dev2 --> crear una nueva rama de desarrollo y entrar en ella.
-// git merge main Dev2 --> agregar la rama principal a la rama Dev2.
 
 # Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
