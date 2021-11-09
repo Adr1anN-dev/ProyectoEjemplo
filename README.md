@@ -34,6 +34,7 @@ git checkout HEAD-1 --> regresar al ultimo commit sin restaurarlo.
 
 # Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
+xd
 # Documentacion 1 (Dev1)
 // git commit -am "doc dev1" --> guardar los cambios en git local.
 // git push origin Dev1 --> subir los cambios a la rama creada.
