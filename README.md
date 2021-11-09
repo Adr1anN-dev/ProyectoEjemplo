@@ -23,6 +23,9 @@ Autor: Adrian Ruiz
 // git checkout Dev1 --> cambiar a la rama creada.
 // git checkout -B Dev2 --> crear una nueva rama de desarrollo y entrar en ella.
 // git merge main Dev2 --> agregar la rama principal a la Dev 2.
+// git reset --hard --> devolver el proyecto local de git al ultimo commit funcional.
+// git checkout HEAD -- README.md --> devolver un archivo en especifico al ultimo commit funcional.
+// git log --> historialde commits en git. ( q para salir).
 
 # Documentacion 2 (Dev2)
 // Documentacion del desarrollador 2
